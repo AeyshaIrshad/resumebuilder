@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #ececec;
+    padding: 20px;
+    text-align: center;
+ 
+
+}
+
+
+.profile-picture {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #5c7888;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+ h2 {
+    content: "\f00c"; /* Checkmark icon */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    margin: 5px 0;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
